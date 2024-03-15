@@ -10,6 +10,7 @@ This is a BMI (Body Mass Index) calculator project developed for an internship p
 ## Prerequisites
 - Python 3.x
 - Matplotlib (for visualization)
+- Tkinter (for GUI)
 
 ## Data Storage
 BMI data will be stored in bmi_data.txt
