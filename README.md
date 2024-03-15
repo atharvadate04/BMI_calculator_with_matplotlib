@@ -1,4 +1,4 @@
-# Task1-BMI Calculator
+# Task1-BMI Calculator GUI
 
 This is a BMI (Body Mass Index) calculator project developed for an internship project. It calculates the BMI based on the entered weight and height, and also provides functionality for data storage and visualization using Matplotlib.
 
