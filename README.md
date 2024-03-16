@@ -34,7 +34,7 @@ This Random Password Generator GUI project is developed as part of an internship
 3. Click on the "Generate Password" button to generate a random password.
 4. Click on the "Copy to Clipboard" button to copy the generated password.
 
-# Weather App
+# Task3-Weather App
 
 This Weather App is a simple Python application developed using Tkinter and the OpenWeatherMap API. It fetches weather information for a given location and displays the temperature, humidity, and weather condition along with an icon representing the current weather.
 
