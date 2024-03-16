@@ -4,7 +4,7 @@ from tkinter import messagebox
 
 def fetch_weather():
     location = location_entry.get()
-    api_key = "22bc41820ebb0f22c5687346820476f7" 
+    api_key = "" #Your Api Key
     url = f"http://api.openweathermap.org/data/2.5/weather?q={location}&appid={api_key}&units=metric"
     
     try:
